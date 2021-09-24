@@ -10,16 +10,16 @@
     de [@facumolina](https://github.com/facumolina/textmining-clustering)
 
 ## Configuracion:
-    1. Descomprimir el archivo `lavoztextodump.txt.tar.gz` en el mismo
-       directorio del jupyter-notebook.
-    2. Ejecutar: 
-    ```bash
-    pip install -U pip wheel setuptools spacy numpy sklearn
-    ```
-    ```bash
-    python -m spacy download es_core_news_sm
-    ```
-    3. Abrir jupyter y ejecutar el notebook.
+1. Descomprimir el archivo `lavoztextodump.txt.tar.gz` en el mismo
+directorio del jupyter-notebook.
+2. Ejecutar: 
+```sh
+pip install -U pip wheel setuptools spacy numpy sklearn
+```
+```sh
+python -m spacy download es_core_news_sm
+```
+3. Abrir jupyter y ejecutar el notebook.
 
 ## Etapas:
 
