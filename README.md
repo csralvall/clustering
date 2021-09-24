@@ -14,7 +14,7 @@
 directorio del jupyter-notebook.
 2. Ejecutar: 
 ```sh
-pip install -U pip wheel setuptools spacy numpy sklearn
+pip install -U pip wheel setuptools jupyter spacy numpy sklearn
 ```
 ```sh
 python -m spacy download es_core_news_sm
